@@ -1,7 +1,6 @@
 # 🛠️ Projeto CNC – Peça com Roscas M50 e M36
 
-**Autor:** Leonardo N. Duarte (PCD)  
-📍 Igrejinha – RS, Brasil  
+**Autor:** Leonardo N. Duarte  
 📧 nevesduartel@gmail.com 
 
 ---
