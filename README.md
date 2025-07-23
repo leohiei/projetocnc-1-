@@ -18,7 +18,7 @@ Demonstrar conhecimento técnico e domínio prático da **programação de torno
 
 ## 🧩 Especificações da Peça
 
-![Desenho técnico da peça](desenho.png)
+![Desenho técnico da peça](ex05-desenho.png)
 
 
 - **Comprimento total:** 255 mm  
