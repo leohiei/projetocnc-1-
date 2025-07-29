@@ -78,6 +78,8 @@ G1 X102 Z0 F0.2
 G1 X-1.5
 ...
 ```
+![Demonstração](demo.gif)
+
 
 ---
 O código G completo utilizado neste projeto está disponível neste repositório. Acesse o arquivo [programa-completo.gcode](programa-completo.gcode) para mais detalhes.
